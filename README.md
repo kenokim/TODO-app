@@ -1,2 +1,5 @@
 # TODO-app
-Simple TODO application
+
+## 제작의도
+- 기존에 노션에 TODO 를 작성하고, 줄을 그어 완료처리를 했는데 이 작업을 조금 더 편하게 만들어보려 합니다.
+- Kotlin + Vue.js 를 통해 관심있는 스택을 연습합니다.
